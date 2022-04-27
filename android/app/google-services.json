@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "238824376443",
+    "project_id": "bengal-home-services",
+    "storage_bucket": "bengal-home-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238824376443:android:f304707f18f62b86c2bade",
+        "android_client_info": {
+          "package_name": "com.example.bengal_home_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238824376443-019o77gcvmlth29qpge3slvnjunh4dqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bengal_home_service",
+            "certificate_hash": "823ab75ef0933d901c650abc12632f2428fa263f"
+          }
+        },
+        {
+          "client_id": "238824376443-8dtpvambpgevp7fkifrlp3s75scbmnmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4NH-zD0SKX5IGfCxWGG8rmjyqvtNNRB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238824376443-8dtpvambpgevp7fkifrlp3s75scbmnmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
